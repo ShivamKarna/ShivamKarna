@@ -83,19 +83,24 @@ mindmap
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-<br><sub>NoSQL Database</sub>
-</td>
-<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 <br><sub>Relational DB</sub>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="48" height="48" alt="Prisma" />
-<br><strong>Prisma ORM</strong>
-<br><sub>Type-Safe ORM</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+<br><sub>Caching Layer</sub>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" width="48" height="48" alt="Neon" />
+<br><strong>Neon DB</strong>
+<br><sub>Serverless Postgres</sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL Database</sub>
 </td>
 <td align="center" width="120">
 <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="48" height="48" alt="Drizzle" />
@@ -103,9 +108,9 @@ mindmap
 <br><sub>Lightweight ORM</sub>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-<br><strong>Redis</strong>
-<br><sub>Caching Layer</sub>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="48" height="48" alt="Prisma" />
+<br><strong>Prisma ORM</strong>
+<br><sub>Type-Safe ORM</sub>
 </td>
 </tr>
 </table>
@@ -194,7 +199,7 @@ mindmap
 
 ---
 
-## Contribution Visualization
+## 🎨 Contribution Visualization
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
