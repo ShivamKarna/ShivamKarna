@@ -23,8 +23,30 @@
 
 ---
 
+## 💡 Core Knowledge
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="90%">
+
+```mermaid
+mindmap
+  root((Backend<br/>Development))
+    API Design
+      RESTful APIs
+      WebSocket
+    Database Architecture
+      Schema Design
+      Query Optimization
+    Performance
+      Caching Strategies
+      Database Tuning
+      Code Optimization
+    Security
+      Authentication
+      Authorization
+      Data Encryption
+      API Security
+```
+
 </div>
 
 ---
@@ -143,33 +165,6 @@
 
 ---
 
-## 💡 Core Knowledge
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Backend<br/>Development))
-    API Design
-      RESTful APIs
-      WebSocket
-    Database Architecture
-      Schema Design
-      Query Optimization
-    Performance
-      Caching Strategies
-      Database Tuning
-      Code Optimization
-    Security
-      Authentication
-      Authorization
-      Data Encryption
-      API Security
-```
-
-</div>
-
-
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
@@ -195,6 +190,12 @@ mindmap
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKarna&theme=github_dark"/>
 </p>
 
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="90%">
 </div>
 
 ---
