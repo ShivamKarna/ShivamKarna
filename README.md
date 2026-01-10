@@ -185,8 +185,8 @@ mindmap
 ## 📊  Repository Analytics
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
 </p>
 
 ### 📈 Comprehensive Profile Summary
