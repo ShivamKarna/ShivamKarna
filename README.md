@@ -185,14 +185,14 @@ mindmap
 ## 📊  Repository Analytics
 
 <p align="center">
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
 </p>
 
 ### 📈 Comprehensive Profile Summary
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKarna&theme=github_dark"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKarna&theme=github_dark"/>
 </p>
 
 </div>
@@ -204,5 +204,5 @@ mindmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="100%">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="80%">
 </picture>
