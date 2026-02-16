@@ -1,26 +1,13 @@
-```
-▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ loading shivam...
-```
-
-```go
-log.Fatal(http.ListenAndServe(":8080", http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) { json.NewEncoder(w).Encode(map[string]any{"dev": "shivam", "status": "building"}) })))
-```
 
 **TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp; **Go** — what i'm learning right now
 
----
 
-<p align="left">
-  <a href="https://shivam-karn.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ShivamKarna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://x.com/ShivamKarnn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-  <a href="mailto:shivamkarn767@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ShivamKarna&label=Profile+Views&color=555555&style=for-the-badge" />
-</p>
+> *the best code is the code you don't have to explain*
 
----
+<sub>→ poke around the repos. something might be useful.</sub>
 
-### what i work with
+
+## what I work with
 
 <br/>
 
@@ -82,6 +69,3 @@ log.Fatal(http.ListenAndServe(":8080", http.HandlerFunc(func(w http.ResponseWrit
 
 ---
 
-> *the best code is the code you don't have to explain*
-
-<sub>→ poke around the repos. something might be useful.</sub>
