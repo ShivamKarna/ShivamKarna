@@ -1,208 +1,87 @@
-<div align="center">
-
-**Backend Developer | System Architect**  
-**Node.js • TypeScript • PostgreSQL • MongoDB**  
-**Building High-Performance Scalable Systems**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-karn.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShivamKarna/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShivamKarnn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkarn767@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShivamKarna&label=Profile%20Views&color=3ec710&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ShivamKarna?label=Followers&style=for-the-badge&color=3ec710)
-![Total Stars](https://img.shields.io/github/stars/ShivamKarna?label=Total%20Stars&style=for-the-badge&color=3ec710)
-
-</div>
-
----
-
-## 💡 Core Knowledge
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Backend<br/>Development))
-    API Design
-      RESTful APIs
-      WebSocket
-    Database Architecture
-      Schema Design
-      Query Optimization
-    Performance
-      Caching Strategies
-      Database Tuning
-      Code Optimization
-    Security
-      Authentication
-      Authorization
-      Data Encryption
-      API Security
+```
+▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ loading shivam...
 ```
 
-</div>
+```go
+log.Fatal(http.ListenAndServe(":8080", http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) { json.NewEncoder(w).Encode(map[string]any{"dev": "shivam", "status": "building"}) })))
+```
+
+**TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp; **Go** — what i'm learning right now
 
 ---
 
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-## Core Backend Stack
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br><strong>Express</strong>
-</td>
-</tr>
-</table>
-
-### Database & ORM Layer
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-<br><sub>Relational DB</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-<br><strong>Redis</strong>
-<br><sub>Caching Layer</sub>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/neon-icon.svg" width="48" height="48" alt="Neon" />
-<br><strong>Neon DB</strong>
-<br><sub>Serverless Postgres</sub>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-<br><sub>NoSQL Database</sub>
-</td>
-<td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="48" height="48" alt="Drizzle" />
-<br><strong>Drizzle ORM</strong>
-<br><sub>Lightweight ORM</sub>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="48" height="48" alt="Prisma" />
-<br><strong>Prisma ORM</strong>
-<br><sub>Type-Safe ORM</sub>
-</td>
-</tr>
-</table>
-
-### DevOps & Infrastructure
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-</tr>
-</table>
-
-### Development Environment
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-<br><strong>Arch Linux</strong>
-<br><sub>Primary OS</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-<br><sub>Primary Editor</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
-<br><strong>Neovim</strong>
-<br><sub>Secondary Editor</sub>
-</td>
-<td align="center" width="140">
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-<br><sub>API Testing</sub>
-</td>
-<td align="center" width="140">
-<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="48" height="48" alt="Terminal" />
-<br><strong>Ghostty & Tmux</strong>
-<br><sub>Terminal</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" align="center">
-
-</td>
-</tr>
-</table>
-
-## 📊  Repository Analytics
-
-<p align="center">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
+<p align="left">
+  <a href="https://shivam-karn.com.np"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ShivamKarna/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/ShivamKarnn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="mailto:shivamkarn767@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ShivamKarna&label=Profile+Views&color=555555&style=for-the-badge" />
 </p>
 
-### 📈 Comprehensive Profile Summary
+---
 
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKarna&theme=github_dark"/>
-</p>
+### what i work with
 
-</div>
+<br/>
+
+**` backend `** &nbsp; TypeScript · JavaScript · Node.js · Express
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express&theme=dark" />
+
+<br/>
+
+**` databases & orm `** &nbsp; PostgreSQL · MongoDB · Redis · Drizzle · Prisma
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
+
+<br/>
+
+**` infrastructure `** &nbsp; Docker · Git · GitHub · Arch Linux
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,arch&theme=dark" />
+
+<br/>
+
+**` environment `** &nbsp; VS Code · Neovim · Postman · Insomnia
+
+<img src="https://skillicons.dev/icons?i=vscode,neovim,postman,insomnia&theme=dark" />
+
+<br/>
+
+**` learning `** &nbsp; Go
+
+<img src="https://skillicons.dev/icons?i=go&theme=dark" />
+
+<br/>
 
 ---
 
-## 🎨 Contribution Visualization
+
+
+**language distribution**
+
+<p align="center">
+  <img width="36%" src="./assets/langs-by-repo.svg"/>
+  &nbsp;&nbsp;
+  <img width="36%" src="./assets/langs-by-commit.svg"/>
+</p>
+
+<p align="center">
+  <sub>by repo &nbsp;·&nbsp; by commit weight</sub>
+</p>
+
+<br/>
+
+**contribution activity**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="80%">
 </picture>
+
+---
+
+> *the best code is the code you don't have to explain*
+
+<sub>→ poke around the repos. something might be useful.</sub>
