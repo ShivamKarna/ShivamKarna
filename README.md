@@ -45,19 +45,22 @@
 
 
 
-**language distribution**
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+</td>
+</tr>
+</table>
+
+## Repository Analytics
 
 <p align="center">
-  <img width="36%" src="./assets/langs-by-repo.svg"/>
-  &nbsp;&nbsp;
-  <img width="36%" src="./assets/langs-by-commit.svg"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
 </p>
-
-<p align="center">
-  <sub>by repo &nbsp;·&nbsp; by commit weight</sub>
-</p>
-
-<br/>
 
 **contribution activity**
 
