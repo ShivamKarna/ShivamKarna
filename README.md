@@ -2,9 +2,9 @@
 **TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp; **Go** — what i'm learning right now
 
 
-> *the best code is the code you don't have to explain*
+> *Good backend code is invisible… until it fails.*
 
-<sub>→ poke around the repos. something might be useful.</sub>
+→ *poke around the repos. something might be useful.*
 
 
 ## what I work with
