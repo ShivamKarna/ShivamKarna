@@ -41,34 +41,3 @@
 
 <br/>
 
----
-
-
-
-<div align="center">
-
-<table>
-<tr>
-<td width="100%" align="center">
-
-</td>
-</tr>
-</table>
-
-## Repository Analytics
-
-<p align="center">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKarna&theme=github_dark"/>
-</p>
-
-**contribution activity**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="80%">
-</picture>
-
----
-
