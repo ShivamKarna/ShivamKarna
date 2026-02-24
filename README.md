@@ -11,31 +11,31 @@
 
 <br/>
 
-**` backend `** &nbsp; TypeScript · JavaScript · Node.js · Express
+**` backend `** &nbsp; **TypeScript** · **JavaScript** · **Node.js** · **Express**
 
 <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express&theme=dark" />
 
 <br/>
 
-**` databases & orm `** &nbsp; PostgreSQL · MongoDB · Redis · Drizzle · Prisma
+**` databases & orm `** &nbsp; **PostgreSQL**· **MongoDB** · **Redis** · **Drizzle** · **Prisma**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma&theme=dark" />
 
 <br/>
 
-**` infrastructure `** &nbsp; Docker · Git · GitHub · Arch Linux
+**` infrastructure `** &nbsp; **Docker** · **Git** · **GitHub** · **Arch Linux**
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,arch&theme=dark" />
 
 <br/>
 
-**` environment `** &nbsp; VS Code · Neovim · Postman · Insomnia
+**` environment `** &nbsp; **VS Code** · **Neovim** · **Postman** · **Insomnia**
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,insomnia&theme=dark" />
 
 <br/>
 
-**` learning `** &nbsp; Go
+**` learning `** &nbsp; **Go**
 
 <img src="https://skillicons.dev/icons?i=go&theme=dark" />
 
