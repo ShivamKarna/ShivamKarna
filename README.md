@@ -2,7 +2,7 @@
 **TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp; **Go** — what i'm learning right now
 
 
-> *Backend developer: because I prefer my logic without a UI.*
+> *Backend developer: because I prefer my logic without a UI :)*
 
 → *poke around the repos. something might be useful.*
 
