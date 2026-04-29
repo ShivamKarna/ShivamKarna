@@ -1,5 +1,5 @@
 
-**TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp; **Go** — what i'm learning right now
+**TypeScript** — where my serious work lives &nbsp;·&nbsp; **JavaScript** — where it all started &nbsp;·&nbsp;
 
 
 > *Backend developer: because I prefer my logic without a UI :)*
@@ -32,12 +32,4 @@
 **` environment `** &nbsp; **VS Code** · **Neovim** · **Postman** · **Insomnia**
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,insomnia&theme=dark" />
-
-<br/>
-
-**` learning `** &nbsp; **Go**
-
-<img src="https://skillicons.dev/icons?i=go&theme=dark" />
-
-<br/>
 
