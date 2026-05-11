@@ -9,13 +9,13 @@
 
 **` backend `** &nbsp; TypeScript · JavaScript · Node.js · Express · Hono
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express&theme=dark" /><img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png" height="48" />
 
 <br/>
 
 **` databases & orm `** &nbsp; PostgreSQL · MongoDB · Redis · Drizzle
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /><img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" height="48" />
 
 <br/>
 
