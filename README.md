@@ -1,7 +1,7 @@
 <h3><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="20"/> TypeScript — where my serious work lives &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js&theme=dark" height="20"/> JavaScript — where it all started</h3>
 
-> *Backend developer: because I prefer my logic without a UI :)*
-> *→ poke around the repos. something might be useful.*
+> *I build backend systems because arguing with CSS wasn’t worth it.*
+> *→ anyway, check the repos.*
 
 ---
 
